@@ -1,0 +1,59 @@
+
+.heder{
+    color: #000000;
+    font-size: 25px;
+}
+#a1{
+    border: #000000;
+    border-style: double;
+    color: rgb(0, 179, 255);
+    margin: 0px 10px 0px 25px;
+}
+#a2{
+    border: #000000;
+    border-style: double;
+    color: rgb(0, 179, 255);
+     margin: 0px 10px 0px 25px;
+}
+#a3{
+    border: #000000;
+    border-style: double;
+    color: rgb(0, 179, 255);
+     margin: 0px 10px 0px 25px;
+}
+#a4{
+    border: #000000;
+    border-style: double;
+    color: rgb(0, 179, 255);
+     margin: 0px 10px 0px 25px;
+}
+#error-message {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
+  font-weight: bold;
+  display: none; /* مخفية في الأول */
+}
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+      color: #666;
+      font-size: 14px;
+      border-top: 1px solid #ddd;
+    }
+    
+    .developer-link {
+      color: #0066cc;
+      font-weight: bold;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+    
+    .developer-link:hover {
+      text-decoration: underline;
+      color: #004d99;
+    }
