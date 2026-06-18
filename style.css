@@ -1,4 +1,3 @@
-/* الصفوف الفردية: odd أبيض، even رمادي */
 .row:nth-child(odd) .col:nth-child(odd) {
     background: #4c4343;
     color: #ddd;
